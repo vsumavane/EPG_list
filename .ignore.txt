@@ -1,0 +1,5 @@
+git pull
+jiotv_go epg gen
+git add .
+git commit -m EPG-Update
+git push
